@@ -1,2 +1,1 @@
-# BlogComment
- 
+个人博客的评论仓库，见<https://blog.handsomesnail.com/>
